@@ -17,8 +17,8 @@ sidebarDepth: 2
 <a href="https://github.com/vuepress/awesome-vuepress/blob/main/v2.md#community-plugins">
 <img style="display: inline-block;margin: 0;margin-right: 0.4rem;" alt="awesome-vuepress" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
 </a>
-<a href="https://github.com/Zhengqbbb/qb/tree/main/vuepress/plugin-china-search-console">
-<img style="display: inline-block;margin: 0;margin-right: 0.4rem;" alt="github" src="https://img.shields.io/github/stars/zhengqbbb/qb?style=social"/>
+<a href="https://github.com/Zhengqbbb/vuepress-plugin/tree/main/vuepress/plugin-china-search-console">
+<img style="display: inline-block;margin: 0;margin-right: 0.4rem;" alt="github" src="https://img.shields.io/github/stars/Zhengqbbb/vuepress-plugin?style=social"/>
 </a>
 <br>
 <a href="https://www.npmjs.com/package/vuepress-plugin-china-search-console">
@@ -133,6 +133,6 @@ export default defineUserConfig({
 
 MIT
 
-> I just try my best to make thing well, Could you give a [star ⭐](https://github.com/Zhengqbbb/qb) to encourage me ?
+> I just try my best to make thing well, Could you give a [star ⭐](https://github.com/Zhengqbbb/vuepress-plugin) to encourage me ?
 
 > 我是 Qbenben，一个爱折腾在沉浸在代码世界打怪升级的深圳小靓仔，感谢您的阅读。[Github](https://github.com/Zhengqbbb) · [Blog](https://blog.qbb.sh/)

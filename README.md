@@ -9,7 +9,7 @@
 
 ## Qbenben Vuepress2 Plugin
 
-[Zhengqbbb/qb](https://github.com/Zhengqbbb/qb)
+[Zhengqbbb/vuepress-plugin](https://github.com/Zhengqbbb/vuepress-plugin)
 
 - plugin-clipboard: A Vuepress v2 plugin to generate code copy button | code clipboard
 - plugin-china-search-console: A Vuepress v2 plugin to enhance vuepress page search SEO For the China search engine console, **include baidu tongji (analytics), vuepress page auto push baidu search engine and auto push 360 search engine.**
