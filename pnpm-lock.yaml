@@ -7,12 +7,14 @@ importers:
       '@antfu/eslint-config': ^0.25.2
       cz-git: ^1.3.9
       eslint: ^8.19.0
+      pnpm: ^7.9.3
       serve: ^13.0.4
       typescript: ^4.7.4
     devDependencies:
       '@antfu/eslint-config': 0.25.2_he2ccbldppg44uulnyq4rwocfa
       cz-git: 1.3.9
       eslint: 8.20.0
+      pnpm: 7.9.3
       serve: 13.0.4
       typescript: 4.7.4
 
@@ -6625,6 +6627,12 @@ packages:
   /pluralize/8.0.0:
     resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
     engines: {node: '>=4'}
+    dev: true
+
+  /pnpm/7.9.3:
+    resolution: {integrity: sha512-0hpAD1vtILw0i9gTN4ffagnScWMW9/avfZIKllBUd++fAvCss+hVgPPDd0HS9XcOT675gid4H9esGkbLdaFy+w==}
+    engines: {node: '>=14.6'}
+    hasBin: true
     dev: true
 
   /portfinder/1.0.28:
