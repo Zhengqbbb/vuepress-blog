@@ -16,19 +16,19 @@ sidebarDepth: 2
 <p align="center">
     <a href="https://bscscan.com/address/0xa6635781b7fa8a210978b4a718caf3f01a197cc4"><img alt="Binance-tool" style="display:inline-block;margin:0.2em;" src="https://img.shields.io/badge/Binance-tool-yellow.svg?logo=binance&style=flat"></a>
     <br/>
-    <a href="https://github.com/zhengqbbb/qb/blob/main/LICENSE"><img style="display:inline-block;margin:0.2em;" alt="license" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-    <a href="https://github.com/zhengqbbb/qb"><img style="display:inline-block;margin:0.2em;" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zhengqbbb/qb?style=social"></a>
+    <a href="https://github.com/Zhengqbbb/qb-coin/blob/main/LICENSE"><img style="display:inline-block;margin:0.2em;" alt="license" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+    <a href="https://github.com/Zhengqbbb/qb-coin"><img style="display:inline-block;margin:0.2em;" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zhengqbbb/qb-coin?style=social"></a>
     <a href="https://hub.docker.com/repository/docker/qben/qb"><img style="display:inline-block;margin:0.2em;" alt="docker-pull" src="https://img.shields.io/docker/pulls/qben/qb?logo=docker"></a>
     <br/>
-    <a href="https://github.com/zhengqbbb/qb">
-    <img style="display:inline-block;margin:0.2em;" alt="GitHub top language" src="https://img.shields.io/github/languages/top/zhengqbbb/qb?logoColor=orange&style=flat-square&color=red">
-    <img style="display:inline-block;margin:0.2em;" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zhengqbbb/qb?color=red">
+    <a href="https://github.com/Zhengqbbb/qb-coin">
+    <img style="display:inline-block;margin:0.2em;" alt="GitHub top language" src="https://img.shields.io/github/languages/top/Zhengqbbb/qb-coin?logoColor=orange&style=flat-square&color=red">
+    <img style="display:inline-block;margin:0.2em;" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Zhengqbbb/qb-coin?color=red">
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/Zhengqbbb/qb/blob/main/README.md">English doc</a>
+    <a href="https://github.com/Zhengqbbb/qb-coin/blob/main/README.md">English doc</a>
     &nbsp; | &nbsp;
-    <a href="https://github.com/Zhengqbbb/qb/blob/main/README.zh-CN.md">简体中文文档</a>
+    <a href="https://github.com/Zhengqbbb/qb-coin/blob/main/README.zh-CN.md">简体中文文档</a>
 </p>
 
 
@@ -119,6 +119,6 @@ docker run -it qben/qb:latest bash
 <br>
 <br>
 
-> I just try my best to make thing well, Could you give a [star ⭐](https://github.com/Zhengqbbb/qb) to encourage me ?
+> I just try my best to make thing well, Could you give a [star ⭐](https://github.com/Zhengqbbb/qb-coin) to encourage me ?
 
 > 我是 Qbenben，一个爱折腾在沉浸在代码世界打怪升级的深圳小靓仔，感谢您的阅读。[Github](https://github.com/Zhengqbbb) · [Blog](https://blog.qbb.sh/)
