@@ -90,7 +90,7 @@ export const themeConfig: Partial<GungnirThemeOptions> = {
     katex: true,
     mermaid: true,
     giscus: {
-      repo: 'Zhengqbbb/zhengqbbb.github.io',
+      repo: 'Zhengqbbb/vuepress-plugin',
       repoId: 'MDEwOlJlcG9zaXRvcnkxODM4OTUyNTQ',
       category: 'Announcements',
       categoryId: 'DIC_kwDOCvYE1s4CAdr1',
